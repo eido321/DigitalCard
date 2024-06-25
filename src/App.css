@@ -249,7 +249,7 @@ textarea{
 }
 
 .profileImage {
-  background-image: url("./assets/profileImage.jpeg");
+  background-image: url("./assets/profileImage.png");
   background-size: cover;
   background-position: top;
   border-radius: 5%;
