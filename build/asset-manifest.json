@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.364ec2a8.css",
+    "main.js": "/static/js/main.0f5af3ba.js",
+    "static/js/453.924d1c05.chunk.js": "/static/js/453.924d1c05.chunk.js",
+    "static/media/wallpaper.png": "/static/media/wallpaper.d7fb094b6a752da03073.png",
+    "static/media/profileImage.png": "/static/media/profileImage.f2a07f3abf4c74734abb.png",
+    "static/media/CV.pdf": "/static/media/CV.2a0602729ca5b6dde056.pdf",
+    "static/media/header.png": "/static/media/header.21362fe2b1ddff4f6477.png",
+    "static/media/WebBrowser.png": "/static/media/WebBrowser.3e99967a793d3a392ca5.png",
+    "static/media/FileManager.png": "/static/media/FileManager.3edab1752d90168e920e.png",
+    "static/media/exIcon.png": "/static/media/exIcon.8078a5f79ca2b96911a9.png",
+    "static/media/StartButton.png": "/static/media/StartButton.b14e6a8ac71e14e6fb7b.png",
+    "static/media/TaskbarButton.png": "/static/media/TaskbarButton.dafc5cd8897de00bf854.png",
+    "index.html": "/index.html",
+    "main.364ec2a8.css.map": "/static/css/main.364ec2a8.css.map",
+    "main.0f5af3ba.js.map": "/static/js/main.0f5af3ba.js.map",
+    "453.924d1c05.chunk.js.map": "/static/js/453.924d1c05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364ec2a8.css",
+    "static/js/main.0f5af3ba.js"
+  ]
+}
